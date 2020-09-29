@@ -1,0 +1,10 @@
+git log until=[D[D[D[D[D[D--[C[C[C[C[C[D[D[D[D[Duntil=year-month-date hours:mins
+git log --since=year-month-date hpurs:mins
+git log --after=year-month-date hours:mins
+git log --before=year-month-date hours:mins
+git log --grep=""[Dsearch info[C"
+git log author=""[Dname[C"
+git log --oneline
+git log --author=""[Dname" --oneline
+git log --oneline -n
+git log -n
