@@ -1,0 +1,8 @@
+git branch
+git branchname
+git checkout brachnmae
+git merge branchname
+git cherry-oick cid 
+git branch -d branchname its from local
+git branch -D branchname itd forcefully
+git push origin -d branch name its from central
